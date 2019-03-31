@@ -1,0 +1,10 @@
+.mylink {
+	font-size:30px;
+	font-family: 'Assistant', sans-serif;
+    color:#555;
+}
+
+.mylink:hover {
+	text-decoration: none;
+	color:#555;
+}
